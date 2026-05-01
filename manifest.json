@@ -1,14 +1,14 @@
 {
   "name": "The Wordless Part of A Word in Gregorian Chants",
   "short_name": "The Wordless Part of A Word in Gregorian Chants",
-  "start_url": "/GREG.github.io/",
-  "scope": "/GREG.github.io/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/GREG.github.io/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
